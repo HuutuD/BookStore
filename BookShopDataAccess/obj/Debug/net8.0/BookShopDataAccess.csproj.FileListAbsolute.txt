@@ -1,0 +1,34 @@
+D:\FPT Course\FA24\PRN231\BookStore\BookShopDataAccess\bin\Debug\net8.0\appsettings.json
+D:\FPT Course\FA24\PRN231\BookStore\BookShopDataAccess\bin\Debug\net8.0\BookShopDataAccess.deps.json
+D:\FPT Course\FA24\PRN231\BookStore\BookShopDataAccess\bin\Debug\net8.0\BookShopDataAccess.dll
+D:\FPT Course\FA24\PRN231\BookStore\BookShopDataAccess\bin\Debug\net8.0\BookShopDataAccess.pdb
+D:\FPT Course\FA24\PRN231\BookStore\BookShopDataAccess\bin\Debug\net8.0\BookShopBusiness.dll
+D:\FPT Course\FA24\PRN231\BookStore\BookShopDataAccess\bin\Debug\net8.0\BookShopBusiness.pdb
+D:\FPT Course\FA24\PRN231\BookStore\BookShopDataAccess\obj\Debug\net8.0\BookShopDataAccess.csproj.AssemblyReference.cache
+D:\FPT Course\FA24\PRN231\BookStore\BookShopDataAccess\obj\Debug\net8.0\BookShopDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Course\FA24\PRN231\BookStore\BookShopDataAccess\obj\Debug\net8.0\BookShopDataAccess.AssemblyInfoInputs.cache
+D:\FPT Course\FA24\PRN231\BookStore\BookShopDataAccess\obj\Debug\net8.0\BookShopDataAccess.AssemblyInfo.cs
+D:\FPT Course\FA24\PRN231\BookStore\BookShopDataAccess\obj\Debug\net8.0\BookShopDataAccess.csproj.CoreCompileInputs.cache
+D:\FPT Course\FA24\PRN231\BookStore\BookShopDataAccess\obj\Debug\net8.0\BookShop.CEC71D71.Up2Date
+D:\FPT Course\FA24\PRN231\BookStore\BookShopDataAccess\obj\Debug\net8.0\BookShopDataAccess.dll
+D:\FPT Course\FA24\PRN231\BookStore\BookShopDataAccess\obj\Debug\net8.0\refint\BookShopDataAccess.dll
+D:\FPT Course\FA24\PRN231\BookStore\BookShopDataAccess\obj\Debug\net8.0\BookShopDataAccess.pdb
+D:\FPT Course\FA24\PRN231\BookStore\BookShopDataAccess\obj\Debug\net8.0\ref\BookShopDataAccess.dll
+E:\PRN231\BookStore\BookStore\BookShopDataAccess\bin\Debug\net8.0\appsettings.json
+E:\PRN231\BookStore\BookStore\BookShopDataAccess\bin\Debug\net8.0\BookShopDataAccess.deps.json
+E:\PRN231\BookStore\BookStore\BookShopDataAccess\bin\Debug\net8.0\BookShopDataAccess.dll
+E:\PRN231\BookStore\BookStore\BookShopDataAccess\bin\Debug\net8.0\BookShopDataAccess.pdb
+E:\PRN231\BookStore\BookStore\BookShopDataAccess\bin\Debug\net8.0\BookShopBusiness.dll
+E:\PRN231\BookStore\BookStore\BookShopDataAccess\bin\Debug\net8.0\BookShopBusiness.pdb
+E:\PRN231\BookStore\BookStore\BookShopDataAccess\obj\Debug\net8.0\BookShopDataAccess.csproj.AssemblyReference.cache
+E:\PRN231\BookStore\BookStore\BookShopDataAccess\obj\Debug\net8.0\BookShopDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN231\BookStore\BookStore\BookShopDataAccess\obj\Debug\net8.0\BookShopDataAccess.AssemblyInfoInputs.cache
+E:\PRN231\BookStore\BookStore\BookShopDataAccess\obj\Debug\net8.0\BookShopDataAccess.AssemblyInfo.cs
+E:\PRN231\BookStore\BookStore\BookShopDataAccess\obj\Debug\net8.0\BookShopDataAccess.csproj.CoreCompileInputs.cache
+E:\PRN231\BookStore\BookStore\BookShopDataAccess\obj\Debug\net8.0\BookShop.CEC71D71.Up2Date
+E:\PRN231\BookStore\BookStore\BookShopDataAccess\obj\Debug\net8.0\BookShopDataAccess.dll
+E:\PRN231\BookStore\BookStore\BookShopDataAccess\obj\Debug\net8.0\refint\BookShopDataAccess.dll
+E:\PRN231\BookStore\BookStore\BookShopDataAccess\obj\Debug\net8.0\BookShopDataAccess.pdb
+E:\PRN231\BookStore\BookStore\BookShopDataAccess\obj\Debug\net8.0\ref\BookShopDataAccess.dll
+E:\PRN231\BookStore\BookStore\BookShopDataAccess\bin\Debug\net8.0\DTO.dll
+E:\PRN231\BookStore\BookStore\BookShopDataAccess\bin\Debug\net8.0\DTO.pdb

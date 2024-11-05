@@ -1,0 +1,38 @@
+D:\FPT Course\FA24\PRN231\BookStore\BookStoreRepository\bin\Debug\net8.0\appsettings.json
+D:\FPT Course\FA24\PRN231\BookStore\BookStoreRepository\bin\Debug\net8.0\BookStoreRepository.deps.json
+D:\FPT Course\FA24\PRN231\BookStore\BookStoreRepository\bin\Debug\net8.0\BookStoreRepository.dll
+D:\FPT Course\FA24\PRN231\BookStore\BookStoreRepository\bin\Debug\net8.0\BookStoreRepository.pdb
+D:\FPT Course\FA24\PRN231\BookStore\BookStoreRepository\bin\Debug\net8.0\BookShopBusiness.dll
+D:\FPT Course\FA24\PRN231\BookStore\BookStoreRepository\bin\Debug\net8.0\BookShopDataAccess.dll
+D:\FPT Course\FA24\PRN231\BookStore\BookStoreRepository\bin\Debug\net8.0\BookShopBusiness.pdb
+D:\FPT Course\FA24\PRN231\BookStore\BookStoreRepository\bin\Debug\net8.0\BookShopDataAccess.pdb
+D:\FPT Course\FA24\PRN231\BookStore\BookStoreRepository\obj\Debug\net8.0\BookStoreRepository.csproj.AssemblyReference.cache
+D:\FPT Course\FA24\PRN231\BookStore\BookStoreRepository\obj\Debug\net8.0\BookStoreRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Course\FA24\PRN231\BookStore\BookStoreRepository\obj\Debug\net8.0\BookStoreRepository.AssemblyInfoInputs.cache
+D:\FPT Course\FA24\PRN231\BookStore\BookStoreRepository\obj\Debug\net8.0\BookStoreRepository.AssemblyInfo.cs
+D:\FPT Course\FA24\PRN231\BookStore\BookStoreRepository\obj\Debug\net8.0\BookStoreRepository.csproj.CoreCompileInputs.cache
+D:\FPT Course\FA24\PRN231\BookStore\BookStoreRepository\obj\Debug\net8.0\BookStor.3C4AE60B.Up2Date
+D:\FPT Course\FA24\PRN231\BookStore\BookStoreRepository\obj\Debug\net8.0\BookStoreRepository.dll
+D:\FPT Course\FA24\PRN231\BookStore\BookStoreRepository\obj\Debug\net8.0\refint\BookStoreRepository.dll
+D:\FPT Course\FA24\PRN231\BookStore\BookStoreRepository\obj\Debug\net8.0\BookStoreRepository.pdb
+D:\FPT Course\FA24\PRN231\BookStore\BookStoreRepository\obj\Debug\net8.0\ref\BookStoreRepository.dll
+E:\PRN231\BookStore\BookStore\BookStoreRepository\bin\Debug\net8.0\appsettings.json
+E:\PRN231\BookStore\BookStore\BookStoreRepository\bin\Debug\net8.0\BookStoreRepository.deps.json
+E:\PRN231\BookStore\BookStore\BookStoreRepository\bin\Debug\net8.0\BookStoreRepository.dll
+E:\PRN231\BookStore\BookStore\BookStoreRepository\bin\Debug\net8.0\BookStoreRepository.pdb
+E:\PRN231\BookStore\BookStore\BookStoreRepository\bin\Debug\net8.0\BookShopBusiness.dll
+E:\PRN231\BookStore\BookStore\BookStoreRepository\bin\Debug\net8.0\BookShopDataAccess.dll
+E:\PRN231\BookStore\BookStore\BookStoreRepository\bin\Debug\net8.0\BookShopDataAccess.pdb
+E:\PRN231\BookStore\BookStore\BookStoreRepository\bin\Debug\net8.0\BookShopBusiness.pdb
+E:\PRN231\BookStore\BookStore\BookStoreRepository\obj\Debug\net8.0\BookStoreRepository.csproj.AssemblyReference.cache
+E:\PRN231\BookStore\BookStore\BookStoreRepository\obj\Debug\net8.0\BookStoreRepository.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN231\BookStore\BookStore\BookStoreRepository\obj\Debug\net8.0\BookStoreRepository.AssemblyInfoInputs.cache
+E:\PRN231\BookStore\BookStore\BookStoreRepository\obj\Debug\net8.0\BookStoreRepository.AssemblyInfo.cs
+E:\PRN231\BookStore\BookStore\BookStoreRepository\obj\Debug\net8.0\BookStoreRepository.csproj.CoreCompileInputs.cache
+E:\PRN231\BookStore\BookStore\BookStoreRepository\obj\Debug\net8.0\BookStor.3C4AE60B.Up2Date
+E:\PRN231\BookStore\BookStore\BookStoreRepository\obj\Debug\net8.0\BookStoreRepository.dll
+E:\PRN231\BookStore\BookStore\BookStoreRepository\obj\Debug\net8.0\refint\BookStoreRepository.dll
+E:\PRN231\BookStore\BookStore\BookStoreRepository\obj\Debug\net8.0\BookStoreRepository.pdb
+E:\PRN231\BookStore\BookStore\BookStoreRepository\obj\Debug\net8.0\ref\BookStoreRepository.dll
+E:\PRN231\BookStore\BookStore\BookStoreRepository\bin\Debug\net8.0\DTO.dll
+E:\PRN231\BookStore\BookStore\BookStoreRepository\bin\Debug\net8.0\DTO.pdb

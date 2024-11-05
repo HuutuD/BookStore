@@ -1,0 +1,11 @@
+E:\PRN231\BookStore\BookStore\DTO\bin\Debug\net8.0\DTO.deps.json
+E:\PRN231\BookStore\BookStore\DTO\bin\Debug\net8.0\DTO.dll
+E:\PRN231\BookStore\BookStore\DTO\bin\Debug\net8.0\DTO.pdb
+E:\PRN231\BookStore\BookStore\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN231\BookStore\BookStore\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+E:\PRN231\BookStore\BookStore\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+E:\PRN231\BookStore\BookStore\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+E:\PRN231\BookStore\BookStore\DTO\obj\Debug\net8.0\DTO.dll
+E:\PRN231\BookStore\BookStore\DTO\obj\Debug\net8.0\refint\DTO.dll
+E:\PRN231\BookStore\BookStore\DTO\obj\Debug\net8.0\DTO.pdb
+E:\PRN231\BookStore\BookStore\DTO\obj\Debug\net8.0\ref\DTO.dll
